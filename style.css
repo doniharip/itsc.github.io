@@ -488,6 +488,9 @@ nav ul li a:hover::after{
 	nav ul.slide {
 		transform: translateX(100%);
 	}
+	.home{
+		padding-left: 2.5rem;
+	}
 	.container-satu {
 		width: 20rem;
 		flex-direction: column;
@@ -535,7 +538,7 @@ nav ul li a:hover::after{
 	}
 
 	
-	.home, .about, .divisi{
+	.about, .divisi{
 		margin-top: 7rem;
 	}
 }
